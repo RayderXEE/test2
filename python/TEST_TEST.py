@@ -1,0 +1,1 @@
+print("Mistor LIs ЕБАЛ ВАС В РОТ")
